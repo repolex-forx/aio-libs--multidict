@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "multidict",
+  "versions": [
+    {
+      "commit": "c728ce1cf05ff95498417d8cd83f1a5f49642ba8",
+      "tag": "",
+      "parsed_at": "2026-10-10T16:15:51.472710+00:00"
+    }
+  ]
+}
