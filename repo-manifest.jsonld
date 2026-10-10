@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/multidict/commit/c728ce1cf05ff95498417d8cd83f1a5f49642ba8",
       "git:hexsha": "c728ce1cf05ff95498417d8cd83f1a5f49642ba8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T16:15:51.471477+00:00"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/multidict/commit/c5c57271fbbedabf544e5fde01e01861477c9dd2",
