@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/multidict/commit/c728ce1cf05ff95498417d8cd83f1a5f49642ba8",
       "git:hexsha": "c728ce1cf05ff95498417d8cd83f1a5f49642ba8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/multidict/commit/c5c57271fbbedabf544e5fde01e01861477c9dd2",
